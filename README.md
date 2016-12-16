@@ -2,4 +2,4 @@
 
 Hi there!
 
-I am PaymonJay, and I like Linux, and mechanical keyboards!
+I am PaymonJay; I like Linux and mechanical keyboards!
